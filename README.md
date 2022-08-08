@@ -7,5 +7,7 @@ Tasks assigned to me were front-end. I was assigned the task of developing the C
 Pull requests initiated on completion of each task are outlined as:
 
 1. Contact Page: https://github.com/Dev-180Memes/zuri-project-frontend/pull/2
-2. Tablets and Accessories Page: https://github.com/Dev-180Memes/zuri-project-frontend/pull/15
-3.Updates to both Contact And Tablets Accessories Pages https://github.com/Dev-180Memes/zuri-project-frontend/pull/19
+2. 
+3. Tablets and Accessories Page: https://github.com/Dev-180Memes/zuri-project-frontend/pull/15
+4. 
+5.Updates to both Contact And Tablets Accessories Pages https://github.com/Dev-180Memes/zuri-project-frontend/pull/19
